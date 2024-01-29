@@ -1,0 +1,9 @@
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.csproj.AssemblyReference.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.AssemblyInfoInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.AssemblyInfo.cs
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.csproj.CoreCompileInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.RazorAssemblyInfo.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.RazorAssemblyInfo.cs
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Web\obj\Debug\net5.0\myshop.Web.MvcApplicationPartsAssemblyInfo.cs

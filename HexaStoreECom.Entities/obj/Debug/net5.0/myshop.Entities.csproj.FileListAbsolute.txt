@@ -1,0 +1,12 @@
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.csproj.AssemblyReference.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.AssemblyInfoInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.AssemblyInfo.cs
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.csproj.CoreCompileInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\bin\Debug\net5.0\myshop.Entities.deps.json
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\bin\Debug\net5.0\myshop.Entities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\bin\Debug\net5.0\ref\myshop.Entities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\bin\Debug\net5.0\myshop.Entities.pdb
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\ref\myshop.Entities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Entities\obj\Debug\net5.0\myshop.Entities.pdb

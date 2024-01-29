@@ -1,0 +1,12 @@
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\bin\Debug\net5.0\myshop.Utilities.deps.json
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\bin\Debug\net5.0\myshop.Utilities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\bin\Debug\net5.0\ref\myshop.Utilities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\bin\Debug\net5.0\myshop.Utilities.pdb
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.csproj.AssemblyReference.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.AssemblyInfoInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.AssemblyInfo.cs
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.csproj.CoreCompileInputs.cache
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\ref\myshop.Utilities.dll
+D:\Faioumy\WORK_SW_Developer\Free Templets\DotNetProj\myshop.Web\myshop.Utilities\obj\Debug\net5.0\myshop.Utilities.pdb
